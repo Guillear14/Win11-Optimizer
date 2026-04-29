@@ -1,0 +1,5 @@
+jdk17_dir/
+gradle-8.4/
+.gradle/
+build/
+bin/
